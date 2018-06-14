@@ -5,6 +5,6 @@
 
 ## What is it ?
 
-It is an unofficial implementation of a cryptocurrency based on the fork of the litecoin
+It is an a cryptocurrency based on the fork of the litecoin
 
 I follow [this tutorial](https://lesbricodeurs.fr/creersaproprecryptomonnaie/) of [Les bricodeurs](https://lesbricodeurs.fr/) to make it.
