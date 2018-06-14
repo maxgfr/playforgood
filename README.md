@@ -5,6 +5,6 @@
 
 ## What is Playforgood?
 
-Playforgood is a fork of litecoin
+PlayForGood cryptocurrency based on the fork of the litecoin
 
 I follow [this tutorial](https://lesbricodeurs.fr/creersaproprecryptomonnaie/) of [Les bricodeurs](https://lesbricodeurs.fr/).
